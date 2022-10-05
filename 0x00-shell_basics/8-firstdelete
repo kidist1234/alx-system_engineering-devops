@@ -1,2 +1,2 @@
 #!/bin/bash
-bettyrm /tmp/my_first_directory/betty: empty
+rm /tmp/my_first_directory/betty: empty
